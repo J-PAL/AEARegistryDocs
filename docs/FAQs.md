@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Frequently asked questions"
-permalink: /FAQs
+title: "FAQ"
+permalink: /FAQ
 ---
+
 # Frequently asked questions
