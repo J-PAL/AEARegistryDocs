@@ -79,7 +79,7 @@ The typical turnaround time for reviewing is 2 to 5 business days.
 ### What if I want to publish in a medical / health journal?
 This registry is for social scientists and is not an approved registry for clinical trials as defined by health journals.
 
-If you plan to publish in a health journal, you may want to also register at a clinical trial registry [ICTRP](https://www.who.int/clinical-trials-registry-platform/search/data_providers/en).
+If you plan to publish in a health journal, you may want to also register at a clinical trial registry [ICTRP](https://www.who.int/clinical-trials-registry-platform).
 
 ### How is each field explicitly defined?
 Take a look at the [data elements guide that defines each field](https://www.socialscienceregistry.org/AEA_RCT_Registry_Data_Elements_Definitions.pdf).
