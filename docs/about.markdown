@@ -6,7 +6,7 @@ permalink: /about/
 
 ### ABOUT THE REGISTRY
 
-**Welcome**
+**Welcome!**
 
 This is the American Economic Association's registry for randomized controlled trials.
 
