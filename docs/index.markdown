@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: https://aearegistrydocs.github.io/
 ---
 
 ### ABOUT THE REGISTRY
