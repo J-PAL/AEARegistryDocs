@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Registration guildelines"
+title: "REGISTRATION GUIDELINES"
 permalink: /Registration guildelines
 ---
 
