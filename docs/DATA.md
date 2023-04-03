@@ -20,6 +20,8 @@ For complete documentation on the change history of the registry, [please see he
 
 ### Downloading from the AEA RCT Registry Dataverse
 
+![](dataverseimage.png "Dataverse")
+
 <img src="dataverseimage.png"
      alt="Markdown Monster icon"
      style="float: center; margin-right: 10px;" />
@@ -37,11 +39,15 @@ Below are instructions on how to download the data:
 
 - Step One: From the main homepage of the registry, please click “Advanced Search” next to the search bar. This will make all trials searchable.
 
-<img src="advanced-search-379351efcb5a75277a8a42c85575645d5fa7df650e765174cc4a4d74a4a7e0be.pngg"
+![](advanced-search-379351efcb5a75277a8a42c85575645d5fa7df650e765174cc4a4d74a4a7e0be.png "Search")
+
+<img src="advanced-search-379351efcb5a75277a8a42c85575645d5fa7df650e765174cc4a4d74a4a7e0be.png"
      alt="Search"
      style="float: right; margin: 10px, 10px, 10px, 10px;" />
 
 - Step Two: Under “Search Results”, there is an option to download the trial information in a CSV file. Select the orange document button on the right.
+
+![](download-caf6c549db478c44c5b1e8bcc2325c2239c9afd8432a4bbd5076738559469da6.png "Download")
 
 <img src="download-caf6c549db478c44c5b1e8bcc2325c2239c9afd8432a4bbd5076738559469da6.png"
      alt="Download"
