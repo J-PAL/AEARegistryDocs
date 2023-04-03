@@ -22,6 +22,10 @@ For complete documentation on the change history of the registry, [please see he
 
 ![](dataverseimage.png "Dataverse")
 
+<img src="dataverseimage.png"
+     alt="Markdown Monster icon"
+     style="float: center; margin-right: 10px;" />
+
 The [AEA RCT Registry Dataverse](https://dataverse.harvard.edu/dataverse/aearegistry) contains monthly, historical snapshots of the registry database. The Dataverse issues a citation and a DOI for each monthly version of the database. Data is uploaded at the beginning of every month. Researchers can cite a particular monthly dataset when doing analysis or making tables and graphs.
 
 Visit the [AEA RCT Registry Dataverse](https://dataverse.harvard.edu/dataverse/aearegistry) to access the data.
