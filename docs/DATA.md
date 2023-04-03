@@ -19,7 +19,7 @@ For a guide on the fields contained in the registry, please see [this documentat
 For complete documentation on the change history of the registry, [please see here](https://www.socialscienceregistry.org/site/updates).
 
 ### Downloading from the AEA RCT Registry Dataverse
-![](dataverse image.png "Dataverse")
+![](dataverse_image.png "Dataverse")
 
 The [AEA RCT Registry Dataverse](https://dataverse.harvard.edu/dataverse/aearegistry) contains monthly, historical snapshots of the registry database. The Dataverse issues a citation and a DOI for each monthly version of the database. Data is uploaded at the beginning of every month. Researchers can cite a particular monthly dataset when doing analysis or making tables and graphs.
 
