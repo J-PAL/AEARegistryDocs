@@ -20,8 +20,6 @@ For complete documentation on the change history of the registry, [please see he
 
 ### Downloading from the AEA RCT Registry Dataverse
 
-![](dataverseimage.png "Dataverse")
-
 <img src="dataverseimage.png"
      alt="Markdown Monster icon"
      style="float: center; margin-right: 10px;" />
