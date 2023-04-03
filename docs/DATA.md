@@ -45,6 +45,10 @@ Below are instructions on how to download the data:
 - Step Two: Under “Search Results”, there is an option to download the trial information in a CSV file. Select the orange document button on the right.
 
 ![](download-caf6c549db478c44c5b1e8bcc2325c2239c9afd8432a4bbd5076738559469da6.png "Download")
+<img src="download-caf6c549db478c44c5b1e8bcc2325c2239c9afd8432a4bbd5076738559469da6.png"
+     alt="Download"
+     style="float: center; margin: 5px, 5px, 5px, 5px;" />
+
 
 - Step Three: The CSV file will now download. This will include all the public information from all published trials.
 
