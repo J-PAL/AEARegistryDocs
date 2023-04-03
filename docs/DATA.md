@@ -35,7 +35,8 @@ Below are instructions on how to download the data:
 
 - Step One: From the main homepage of the registry, please click “Advanced Search” next to the search bar. This will make all trials searchable.
 
-![](advanced-search-379351efcb5a75277a8a42c85575645d5fa7df650e765174cc4a4d74a4a7e0be.png "Search")
+![<div style="text-align: center">](advanced-search-379351efcb5a75277a8a42c85575645d5fa7df650e765174cc4a4d74a4a7e0be.png "Search")
+
 
 - Step Two: Under “Search Results”, there is an option to download the trial information in a CSV file. Select the orange document button on the right.
 
