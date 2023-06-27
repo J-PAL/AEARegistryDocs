@@ -28,7 +28,7 @@ Making someone a collaborator on a trial gives them access to edit the trial reg
 
 Adding someone as a collaborator to your trial allows them to do the following:
 1. Shares access which gives the other person access to edit all information in a trial
-2. Change a role from or to the Primary Investigator
+2. Enables the ability to change a persons role from or to the Primary Investigator
 
 To access the collaborators page and add another person's account:
 
