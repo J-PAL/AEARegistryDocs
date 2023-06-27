@@ -73,6 +73,8 @@ The AEA RCT registry is only for Randomized Controlled Trials (RCTs) in the fiel
 
 **General Requirements:**
 
+- We have recently updated our submission policies to require submissions to input information directly under relevant sections rather than refer to analysis plans. This helps better track changes between versions as well as improves data collection.
+
 - The registration should be written in English (with exceptions such as the trial title, organization names, etc.), such that an English-speaking reader can understand the research design and question.
 
 - Language should be clear and concise.
