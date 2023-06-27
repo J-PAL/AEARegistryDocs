@@ -28,13 +28,17 @@ Making someone a collaborator on a trial gives them access to edit the trial reg
 
 Adding someone as a collaborator to your trial allows them to do the following:
 1. Shares access which gives the other person access to edit all information in a trial
+  
 2. Enables the ability to change a persons role from or to the Primary Investigator
 
 To access the collaborators page and add another person's account:
 
 1. Obtain the email address of the person you want to add as a collaborator. Make sure it is the email they used to register an account on the Registry. If they do not have an account, they will need to register for one.
+   
 2. Navigate to the edit page of the trial you want to add someone to. You can access a list of your trials from the [My Trials](https://www.socialscienceregistry.org/trials) page.
+   
 3. On the edit page of the trial you want to add the person to, click the Manage Collaborators link located at the top of the page. This takes you to the collaborators page.
+   
 4. On the collaborators page, enter the name or email address from step 1 in the Add Collaborator field and click Save to submit the form.
 
 If the email was incorrect or if an account with that email address does not exist, you will see an error message explaining the problem.
@@ -51,12 +55,14 @@ All edits are preserved and can be accessed on the "View Trial History" tab of a
 Yes, you can make edits to your PAP. As noted above, when changes are made to the trial registry, a new version is created and the old version is available to be viewed by users. All edits are preserved and can be accessed on the ""View Trial History"" tab of any trial. However, when changes are made to uploaded documents users only see that the document has been changed, and would need to download and read both documents to discover where changes were made. For version control, we recomend doing the following:
 
 1. Using version control in your naming conventions for updated uploaded documents (e.g., 'PAP_v2.1')
+  
 2. If there is a change between two versions you would like to highlight, add a line in the updated PAP briefly listing the changes made to the original document.
 
 ### What happens if I lost access to my registred email?
 In the event you lose access to the email you used to register your trial, first create a new account with an email you have access to. Then you have two options:
 
 1. You can ask a fellow collaborator to add your new email address as a collaborator on the trial
+   
 2. If you are the only PI/collaborator on the trial, feel free you reach us at support@socialscienceregistry.org to add you as a collaborator. Be sure to send us the AEA RCT Number along with a link to the trial you want to be added as a collaborator on.
 
 ### What is this DOI that is assigned to my registration?
