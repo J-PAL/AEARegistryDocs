@@ -2,7 +2,7 @@
 layout: page
 ---
 
-**Welcome!**
+**About the Registry**
 
 This is the documentation page for the American Economic Association's registry for randomized controlled trials.
 
