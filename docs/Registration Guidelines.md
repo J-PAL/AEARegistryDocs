@@ -13,7 +13,7 @@ Please review these instructions before beginning a trial registration.
 You will need a valid account to register a trial. To create an account go to the [Sign up](https://www.socialscienceregistry.org/sign_up) page.
 
 ### Trial Registration
-Once you have a valid account, you can register a trial at the [Trial Registration](https://www.socialscienceregistry.org/trials/new) page. The person registering the trial is considered to be the primary principal investigator (PI). For studies with additional PIs, there are additional fields to enter their names, emails and affiliations. Email addresses are hidden from public view.
+Once you have a valid account, you can register a trial at the [Trial Registration](https://www.socialscienceregistry.org/trials/new){:target="_blank"} page. The person registering the trial is considered to be the primary principal investigator (PI). For studies with additional PIs, there are additional fields to enter their names, emails and affiliations. Email addresses are hidden from public view.
 
 ### Required Information
 To register a trial, you must complete the following fields:
@@ -58,7 +58,7 @@ When a trial is registered before the start of its intervention, it is marked as
 
 ### Editing an existing trial
 
-The user who created the trial, and those who have been added as a collaborator via their email accounts, can edit the trial. To edit a trial, sign into the site, find the trial you would like to edit and click "Edit Trial." To see a list of all your trials, visit your [My Trials](https://www.socialscienceregistry.org/trials) page. Here, you will find a list of all your registered and unregistered trials.
+The user who created the trial, and those who have been added as a collaborator via their email accounts, can edit the trial. To edit a trial, sign into the site, find the trial you would like to edit and click "Edit Trial." To see a list of all your trials, visit your [My Trials](https://www.socialscienceregistry.org/trials){:target="_blank"} page. Here, you will find a list of all your registered and unregistered trials.
 
 ### Registration Review Criteria
 
