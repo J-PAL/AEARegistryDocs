@@ -2,7 +2,7 @@
 layout: page
 ---
 
-### ABOUT THE REGISTRY
+### About the registry
 
 **Welcome!**
 
