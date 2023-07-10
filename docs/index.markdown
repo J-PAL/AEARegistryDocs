@@ -6,7 +6,7 @@ layout: page
 
 This is the documentation page for the American Economic Association's registry for randomized controlled trials.
 
-Randomized Controlled Trials (RCTs) are widely used in various fields of economics and other social sciences. As they become more numerous, a central registry that lists which trials are ongoing, complete, or withdrawn becomes important for various reasons, including but not limnited to as a source of results for meta-analysis and as a one-stop resource to find out about available survey instruments and data.
+Randomized Controlled Trials (RCTs) are widely used in various fields of economics and other social sciences. As they become more numerous, a central registry that lists which trials are ongoing, complete, or withdrawn becomes important for various reasons, including, but not limited to, serving as a source of results for meta-analysis and as a one-stop resource to find out about available survey instruments and data.
 
 Because existing registries were not well suited to the need for social sciences, in April 2012, the AEA executive committee decided to establish such a registry for economics and other social sciences.
 
