@@ -10,7 +10,7 @@ Please review these instructions before beginning a trial registration.
 
 ### Accounts
 
-You will need a valid account to register a trial. To create an account go to the [Sign up](https://www.socialscienceregistry.org/sign_up) page.
+You will need a valid account to register a trial. To create an account go to the [Sign up](https://www.socialscienceregistry.org/sign_up){:target="_blank"} page.
 
 ### Trial Registration
 Once you have a valid account, you can register a trial at the [Trial Registration](https://www.socialscienceregistry.org/trials/new){:target="_blank"} page. The person registering the trial is considered to be the primary principal investigator (PI). For studies with additional PIs, there are additional fields to enter their names, emails and affiliations. Email addresses are hidden from public view.
