@@ -31,6 +31,13 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Other:
+header_pages:
+  - index.markdown
+  - Registration Guidelines.md
+  - Data.md
+  - FAQs.md
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
