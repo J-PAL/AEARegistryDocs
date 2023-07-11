@@ -35,3 +35,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem "webrick", "~> 1.8.1"
 gem "nokogiri", "~> 1.15.3"
 gem "faraday", "~>2.7.10"
+gem "kramdown-parser-gfm"
