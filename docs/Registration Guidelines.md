@@ -50,7 +50,7 @@ As of January 5, 2017, draft trials will be reviewed for criteria that must be m
 As of March 1, 2017, registered draft trials will keep their original submission date and time.
 
 **Eligibility Requirements:**
-The AEA RCT registry is only for Randomized Controlled Trials (RCTs) in the fields of economics, political science, and other social sciences. The RCT can be run anywhere in the world. It should not be used for clinical trials.[^1] 
+The AEA RCT registry is only for Randomized Controlled Trials (RCTs) in the fields of economics, political science, and other social sciences. The RCT can be run anywhere in the world. It should not be used for clinical trials. [^1] 
 
 **General Requirements:**
 
