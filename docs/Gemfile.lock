@@ -257,6 +257,7 @@ DEPENDENCIES
   github-pages (~> 228)
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.12)
+  kramdown-parser-gfm
   minima (~> 2.5)
   nokogiri (~> 1.15.3)
   tzinfo (>= 1, < 3)
