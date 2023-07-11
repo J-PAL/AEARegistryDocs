@@ -1,3 +1,3 @@
 # Registry Docs
 
-Readme for the github repo containing the backend of https://aearegistrydocs.github.io. Please see the [website](https://aearegistrydocs.github.io) for further information
+Readme for the github repo containing the backend of https://j-pal.github.io/AEARegistryDocs/. Please see the [website](https://j-pal.github.io/AEARegistryDocs/) for further information
