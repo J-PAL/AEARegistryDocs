@@ -50,7 +50,7 @@ As of January 5, 2017, draft trials will be reviewed for criteria that must be m
 As of March 1, 2017, registered draft trials will keep their original submission date and time.
 
 **Eligibility Requirements:**
-The AEA RCT registry is only for Randomized Controlled Trials (RCTs) in the fields of economics, political science, and other social sciences. The RCT can be run anywhere in the world. It should not be used for clinical trials.[^1]
+The AEA RCT registry is only for Randomized Controlled Trials (RCTs) in the fields of economics, political science, and other social sciences. The RCT can be run anywhere in the world. However, it should not be used for clinical trials, which are not eligible because health journals that require preregistration will not accept registries in the AEA. Specifically, the AEA registry is not a government-sponsored registry, and was not designed to meet CONSORT guidelines since many of those fields are not appropriate for the social sciences. It therefore does not meet the clinicaltrials.gov or WHO criteria for being a clinical registry, and so medical journals will not accept manuscripts where the project was registered in the AEA registry versus a qualifying registry.
 
 **General Requirements:**
 
@@ -71,7 +71,3 @@ The AEA RCT registry is only for Randomized Controlled Trials (RCTs) in the fiel
 - All information is entered in the relevant and appropriate fields.
 
 - Duplicate registrations will be deleted.
-
-
-**Footnotes:**
-[^1]: Clinical trials are not eligible because health journals that require preregistration will not accept registries in the AEA. Specifically, the AEA registry is not a government-sponsored registry, and was not designed to meet CONSORT guidelines since many of those fields are not appropriate for the social sciences. It therefore does not meet the clinicaltrials.gov or WHO criteria for being a clinical registry, and so medical journals will not accept manuscripts where the project was registered in the AEA registry versus a qualifying registry.
