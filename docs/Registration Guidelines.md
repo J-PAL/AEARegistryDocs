@@ -37,7 +37,7 @@ To register a trial, you must complete the following fields:
   - IRB Approval Date
   - IRB Approval Number
 
-When a trial is registered before the start of its intervention, it is marked as a pre-registered trial with an orange clock icon. INSERT CLOCK IMAGE
+When a trial is registered before the start of its intervention, it is marked as a pre-registered trial with an orange clock icon.
 
 ### Editing an existing trial
 
@@ -48,8 +48,6 @@ The user who created the trial, and those who have been added as a collaborator 
 As of January 5, 2017, draft trials will be reviewed for criteria that must be met before a research project is published in the AEA RCT Registry. Researchers should review the below criteria, and thoroughly inspect their entry before submitting their trial registration. The criteria is not intended to review the quality of the research, nor the ethics of the research. After submission for review, a reviewer has 15 days to review the draft, but the turnaround time is usually faster, ie. 1 to 2 business days.
 
 As of March 1, 2017, registered draft trials will keep their original submission date and time.
-
-
 
 **Eligibility Requirements:**
 The AEA RCT registry is only for Randomized Controlled Trials (RCTs) in the fields of economics, political science, and other social sciences. The RCT can be run anywhere in the world. It should not be used for clinical trials. [Footnote: Clinical trials are not eligible because health journals that require preregistration will not accept registries in the AEA. Specifically, the AEA registry is not a government-sponsored registry, and was not designed to meet CONSORT guidelines since many of those fields are not appropriate for the social sciences. It therefore does not meet the clinicaltrials.gov or WHO criteria for being a clinical registry, and so medical journals will not accept manuscripts where the project was registered in the AEA registry versus a qualifying registry.]
