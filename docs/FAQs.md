@@ -16,9 +16,7 @@ To register a trial, you must first have a user account. See [How to Register a 
 Currently, registration is free.
 
 ### Can I hide information?
-Select fields can be hidden/embargoed until the trial is completed so as to not influence survey respondents while the survey is in the field, or perturb a placebo effect.
-
-You can also upload confidential documents, which will never be shared unless you explicitly authorize it.
+Select fields can be hidden/embargoed until the trial is completed so as to not influence survey respondents while the survey is in the field, or perturb a placebo effect. You can also upload confidential documents, which will never be shared unless you explicitly authorize it.
 
 ### PIs and collaborators 
 #### Do I have to be the principal investigator in order to register a trial?
@@ -63,29 +61,19 @@ Yes, you can make edits to your PAP. As noted above, when changes are made to th
 
 ### DOIs and citation
 #### What is this DOI that is assigned to my registration?
-Digital Object Identifiers (DOIs) provide persistent links to web content to ensure that the content is discoverable at all times – even if its URL or location within a site changes.
-
-DOIs are widely used across academia to provide permanent links to published journal articles as well as data.
-
-Read more [about our process of adding DOIs to the registry](https://www.povertyactionlab.org/blog/8-15-19/improving-research-transparency-through-easier-faster-access-studies-aea-rct-registry){:target="_blank"}.
+Digital Object Identifiers (DOIs) provide persistent links to web content to ensure that the content is discoverable at all times – even if its URL or location within a site changes. DOIs are widely used across academia to provide permanent links to published journal articles as well as data. Read more [about our process of adding DOIs to the registry](https://www.povertyactionlab.org/blog/8-15-19/improving-research-transparency-through-easier-faster-access-studies-aea-rct-registry){:target="_blank"}.
 
 #### What is DOI Versioning? 
-Each published change to a trial is given a new release number, and will be assigned a new DOI.
-
-For more about versioning DOIs, see our [guidelines on what constitutes a major or minor change](https://www.socialscienceregistry.org/site/version){:target="_blank"}.
+Each published change to a trial is given a new release number, and will be assigned a new DOI. For more about versioning DOIs, see our [guidelines on what constitutes a major or minor change](https://www.socialscienceregistry.org/site/version){:target="_blank"}.
 
 #### Which DOI should I cite in my paper?
 Each trial registration entry has a master DOI and a DOI for each version registered. Unless you want to cite a specific version of your registry entry, you should cite the master DOI. The master DOI will always link to the current registry entry.
 
 #### How should I cite my registration?
-Upon registration, an auto-generated citation will appear on your public registered trial. You should always cite your registration, as this allows us to follow where references are made to the registration using standard citation tracking mechanisms.
-
-It's only a suggested citation format, and when submitting to a journal you should consult with the journal for how to cite the registration. Otherwise, for in-text mentions, your registration can be referred to as: AEA RCT Registry, RCT ID: AEARCTR-0000000. For example, "This study is registered in the AEA RCT Registry and the unique identifying number is: AEARCTR-0000000."
+Upon registration, an auto-generated citation will appear on your public registered trial. You should always cite your registration, as this allows us to follow where references are made to the registration using standard citation tracking mechanisms. It's only a suggested citation format, and when submitting to a journal you should consult with the journal for how to cite the registration. Otherwise, for in-text mentions, your registration can be referred to as: AEA RCT Registry, RCT ID: AEARCTR-0000000. For example, "This study is registered in the AEA RCT Registry and the unique identifying number is: AEARCTR-0000000."
 
 ### Is there a review process?
-Yes, as of January 5, 2017, draft trials will be reviewed for criteria that must be met before a research project is published in the AEA RCT Registry.
-
-Researchers should [review the criteria for inclusion in the AEA RCT Registry](https://www.socialscienceregistry.org/site/instructions{:target="_blank"}), and thoroughly inspect their entry before submitting their trial registration. The typical turnaround time for reviewing is 2 to 5 business days.
+Yes, as of January 5, 2017, draft trials will be reviewed for criteria that must be met before a research project is published in the AEA RCT Registry. Researchers should [review the criteria for inclusion in the AEA RCT Registry](https://www.socialscienceregistry.org/site/instructions{:target="_blank"}), and thoroughly inspect their entry before submitting their trial registration. The typical turnaround time for reviewing is 2 to 5 business days.
 
 ### What if I want to publish in a medical / health journal?
 This registry is for social scientists and is not an approved registry for clinical trials as defined by health journals. If you plan to publish in a health journal, you may want to also register at a clinical trial registry [ICTRP](https://www.who.int/clinical-trials-registry-platform){:target="_blank"}.
