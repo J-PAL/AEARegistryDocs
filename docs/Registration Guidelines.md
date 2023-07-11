@@ -19,7 +19,6 @@ Once you have a valid account, you can register a trial at the [Trial Registrati
 To register a trial, you must complete the following fields:
 
 - Trial Title
-
 - Country (At least one)
 
 - Status
@@ -48,11 +47,11 @@ To register a trial, you must complete the following fields:
 
 - Was IRB approval obtained (only for "In Development" and "On-going" trials)? If so, also
 
-- IRB Name
+  - IRB Name
 
-- IRB Approval Date
+  - IRB Approval Date
 
-- IRB Approval Number
+  - IRB Approval Number
 
 When a trial is registered before the start of its intervention, it is marked as a pre-registered trial with an orange clock icon. INSERT CLOCK IMAGE
 
