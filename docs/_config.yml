@@ -37,6 +37,10 @@ header_pages:
   - Registration Guidelines.md
   - Data.md
   - FAQs.md
+markdown: kramdown
+kramdown:
+  input: GFM
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
