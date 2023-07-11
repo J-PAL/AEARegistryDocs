@@ -22,7 +22,7 @@ title: AEA RCT Registry Documentation
 email: support@socialscienceregistry.org
 description: >- # this means to ignore newlines until "baseurl:"
  A website to host documentation and guidance for the AEA RCT Registry
-baseurl: "/AEARegistryDocs.github.io/" # the subpath of your site, e.g. /blog
+baseurl: "/AEARegistryDocs/" # the subpath of your site, e.g. /blog
 url: "https://j-pal.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  AEARegistryDocs
 
