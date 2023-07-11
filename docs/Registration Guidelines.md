@@ -73,4 +73,5 @@ The AEA RCT registry is only for Randomized Controlled Trials (RCTs) in the fiel
 - Duplicate registrations will be deleted.
 
 
+**Footnotes:**
 [^1]: Clinical trials are not eligible because health journals that require preregistration will not accept registries in the AEA. Specifically, the AEA registry is not a government-sponsored registry, and was not designed to meet CONSORT guidelines since many of those fields are not appropriate for the social sciences. It therefore does not meet the clinicaltrials.gov or WHO criteria for being a clinical registry, and so medical journals will not accept manuscripts where the project was registered in the AEA registry versus a qualifying registry.
