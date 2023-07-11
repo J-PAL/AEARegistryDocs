@@ -6,6 +6,7 @@ permalink: /FAQ
 
 # Frequently asked questions
 
+* TOC
 {:toc}
 
 ### How do I register a trial?
