@@ -4,6 +4,7 @@ title: "FAQ"
 permalink: /FAQ
 ---
 
+### Table of contents:
 * TOC
 {:toc}
 
