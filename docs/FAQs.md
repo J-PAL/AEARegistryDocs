@@ -4,7 +4,7 @@ title: "FAQs"
 permalink: /FAQ
 ---
 
-### Table of contents:
+<h2>Table of contents:</h2>
 * TOC
 {:toc}
 
