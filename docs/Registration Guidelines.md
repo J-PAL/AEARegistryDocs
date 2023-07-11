@@ -20,37 +20,21 @@ To register a trial, you must complete the following fields:
 
 - Trial Title
 - Country (At least one)
-
 - Status
-
 - Keyword (At least one)
-
 - Abstract
-
 - Trial Start Date
-
 - Intervention Start Date
-
 - Intervention End Date
-
 - Trial End Date
-
 - Outcomes (End Points)
-
 - Experimental Design (Public)
-
 - Was the treatment clustered?
-
 - Planned Number of Clusters
-
 - Planned Number of Observations
-
 - Was IRB approval obtained (only for "In Development" and "On-going" trials)? If so, also
-
   - IRB Name
-
   - IRB Approval Date
-
   - IRB Approval Number
 
 When a trial is registered before the start of its intervention, it is marked as a pre-registered trial with an orange clock icon. INSERT CLOCK IMAGE
