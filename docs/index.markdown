@@ -1,7 +1,3 @@
-<meta charset="utf-8">
-<title>Redirecting to docs.socialscienceregistry.org </title>
-<meta http-equiv="refresh" content="0; URL=docs.socialscienceregistry.org">
-<link rel="canonical" href="docs.socialscienceregistry.org">
 
 ---
 layout: page
