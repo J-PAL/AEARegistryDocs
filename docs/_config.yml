@@ -34,6 +34,7 @@ plugins:
 # Other:
 header_pages:
   - index.markdown
+  - About.md
   - Registration Guidelines.md
   - Data.md
   - FAQs.md
