@@ -3,7 +3,7 @@ layout: page
 title: "Welcome"
 ---
 
-This is the documentation site for the American Economic Association's [registry for randomized controlled trials](https://www.socialscienceregistry.org/){:target="_blank"}.
+This is the documentation site for the American Economic Association's [registry for randomized controlled trials](https://www.socialscienceregistry.org/){:target="_blank"}. It contains information on how to register a trial, how to download Registry data, and a list of frequently asked questions and their answers. It will be continually updated, but if you see something missing, please feel free to email support@socialscienceregistry.org.
 
 Contents:
 
