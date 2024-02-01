@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Registration Guidelines"
-permalink: /Registration Guildelines
+permalink: /registration_guidelines
 ---
 
 # Registration guildelines

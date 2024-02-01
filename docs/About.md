@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-permalink: /About
+permalink: /about
 ---
   
   This is the documentation site for the American Economic Association's [registry for randomized controlled trials](https://www.socialscienceregistry.org/){:target="_blank"}.

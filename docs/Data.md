@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Data"
-permalink: /Data
+permalink: /data
 ---
 
 ## Trial Data Acess
