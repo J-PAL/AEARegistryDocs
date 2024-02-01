@@ -4,11 +4,83 @@ layout: default
 <article class="post">
 
   <header class="post-header">
+    {% if page.title != "Welcome" %}
+    <style>
+      .back-to-link {
+        display: none;
+      }
+
+      .back-to-link[href] {
+        display: initial;
+      }
+    </style>
+
+    <a class="back-to-link" id="back-to-link">Back to Registry</a>
+    {% endif %}
+
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
 
   <div class="post-content">
     {{ content }}
+
+    {% if page.title != "Welcome" %}
+    <a class="back-to-link" id="back-to-link-bottom">Back to Registry</a>
+    {% endif %}
   </div>
 
 </article>
+
+{% if page.title != "Welcome" %}
+<script>
+  (function() {
+    "use strict";
+
+    var cookieName = "registry_return_to=";
+    var registryHostname = "{{ site.registry_hostname }}"
+
+    var backToLink = document.getElementById("back-to-link");
+    var backToLinkBottom = document.getElementById("back-to-link-bottom");
+    var hrefValue;
+
+    var referrerUrl = new URL(document.referrer);
+
+    var url = new URL(window.location);
+    var returnTo = url.searchParams.get("return_to");
+
+    if ( referrerUrl.hostname === registryHostname && returnTo ) {
+      var returnToUrl = new URL(returnToUrl);
+
+      if ( returnToUrl.hostname === registryHostname ) {
+        var now = new Date();
+        var cookieExpiration = new Date(now.getTime() + ONE_HOUR);
+
+        var returnToCookie = "registry_return_to=" + returnTo + ";";
+        returnToCookie += "SameSite=Strict; Secure;"
+        returnToCookie += "max-age=3600;"
+
+        document.cookie = returnToCookie;
+
+        hrefValue = returnTo;
+      }
+    } else if ( document.cookie.indexOf(cookieName) >= 0 ) {
+      var cookies = document.cookie.split(/\s*;\s*/);
+
+      for ( var cookieIndex = 0; cookieIndex < cookies.length; cookieIndex++ ) {
+        var cookie = cookies[cookieIndex];
+
+        if ( cookie.startsWith(cookieName) ) {
+          hrefValue = cookie.split("=")[1];
+        }
+      }
+    }
+
+    if ( hrefValue ) {
+      backToLink.setAttribute("href", hrefValue);
+      backToLinkBottom.setAttribute("href", hrefValue);
+    } else {
+      backToLinkBottom.setAttribute("href",  "https://{{ site.registry_hostname }}");
+    }
+  })();
+</script>
+{% endif %}
