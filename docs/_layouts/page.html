@@ -49,11 +49,10 @@ layout: default
     var returnTo = url.searchParams.get("return_to");
 
     if ( referrerUrl.hostname === registryHostname && returnTo ) {
-      var returnToUrl = new URL(returnToUrl);
+      var returnToUrl = new URL(returnTo);
 
       if ( returnToUrl.hostname === registryHostname ) {
         var now = new Date();
-        var cookieExpiration = new Date(now.getTime() + ONE_HOUR);
 
         var returnToCookie = "registry_return_to=" + returnTo + ";";
         returnToCookie += "SameSite=Strict; Secure;"
