@@ -18,13 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: AEA RCT Registry Documentation 
+title: AEA RCT Registry Documentation
 email: support@socialscienceregistry.org
 description: >- # this means to ignore newlines until "baseurl:"
  A website to host documentation and guidance for the AEA RCT Registry
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "docs.socialscienceregistry.org" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  AEARegistryDocs
+
+registry_hostname: "www.socialscienceregistry.org"
 
 # Build settings
 theme: minima

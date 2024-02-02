@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "FAQs"
-permalink: /FAQ
+permalink: /faq
 ---
 
 <h3>Table of contents:</h3>
