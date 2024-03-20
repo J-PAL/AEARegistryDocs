@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  A website to host documentation and guidance for the AEA RCT Registry
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "docs.socialscienceregistry.org" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  J-PAL/AEARegistryDocs
+github_username:  "J-PAL/AEARegistryDocs"
 
 registry_hostname: "www.socialscienceregistry.org"
 
