@@ -24,8 +24,6 @@ description: >- # this means to ignore newlines until "baseurl:"
  A website to host documentation and guidance for the AEA RCT Registry
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "docs.socialscienceregistry.org" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: "J-PAL%2fAEARegistryDocs"
-
 registry_hostname: "www.socialscienceregistry.org"
 
 # Build settings
@@ -45,6 +43,11 @@ kramdown:
   input: GFM
   parse_block_html: true
 
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/J-PAL/AEARegistryDocs"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
