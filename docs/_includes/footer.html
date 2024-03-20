@@ -11,18 +11,5 @@
         {% endif %}
       {% endfor %}
     {% endif %}
-
-    {% unless site.atom_feed.hide %}
-      <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
-    {% endunless %}
   </ul>
 </div>
-
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.organization | default: site.title }}. 
-  {% if site.license %}<a href="https://github.com/{{ site.repository }}/blob/{{ site.branch }}/LICENSE.md">
-    {% if site.license_image %}
-    <img src="/images/{{ site.license_image }}" width="80px" height="15px" alt="{{ site.license_name }}" />
-    {% else %}
-    {{ site.license_name }}
-    {% endif %}</a>
-  {% endif %}
