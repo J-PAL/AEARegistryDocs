@@ -45,6 +45,8 @@ kramdown:
 
 footer:
   links:
+    - label: "Email"
+      url: "mailto:support@socialscienceregistry.org"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/J-PAL/AEARegistryDocs"
