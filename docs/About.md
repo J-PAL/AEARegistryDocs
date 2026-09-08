@@ -10,8 +10,7 @@ Randomized Controlled Trials (RCTs) are widely used in various fields of economi
 complete, or withdrawn becomes important for various reasons, including, but not limited to, serving as a source of results for meta-analysis and as a one-stop resource to find out about available 
 survey instruments and data.
 
-Because existing registries were not well suited to the need for social sciences, in April 2012, the AEA executive committee decided to establish such a registry for economics and other social 
-sciences.
+Because existing registries were not well suited to the need for social sciences, in April 2012, the AEA executive committee decided to establish such a registry for economics and other social sciences.
 
 **If you are running or have run a trial:** Registration is free and you do not need to be a member of the AEA to register. We encourage you to register any new study at its outset. However, given 
 the backlog of existing trials, we invite you to also register past studies. If your trial is registered before the start of its intervention, we also encourage you to consider preparing a 
