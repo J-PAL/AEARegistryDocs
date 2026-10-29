@@ -71,3 +71,6 @@ The AEA RCT registry is only for Randomized Controlled Trials (RCTs) in the fiel
 - All information is entered in the relevant and appropriate fields.
 
 - Duplicate registrations will be deleted.
+
+## Payment
+As of November 1, 2026, registration requires either a payment of $50 or a selection of the $0 fee for those experiencing a financial hardship. After the trial is approved you will receive an email with a link to the payment page. This link will also appear on your trial's profile page after approval. Once you click on this link you will have the choice of either paying the $50 through the AEA payment portal or selecting the $0 financial hardship option. If you select the free option you will be prompted to provide a description of your financial hardship; this description is not verified and is just for our internal learning. Once the payment is successful the registration will be made public.
