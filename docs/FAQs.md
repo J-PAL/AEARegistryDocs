@@ -12,8 +12,11 @@ permalink: /faq
 
 To register a trial, you must first have a user account. See [How to Register a Trial](https://www.socialscienceregistry.org/site/instructions){:target="_blank"} for more information.
 
-### Is registration free?
-Currently, registration is free.
+### Is there a fee to register?
+As of November 1, 2026, registration requires a $50 fee. In 2025, the AEA executive committee voted to introduce a $50 registration fee to help support the continued operation and maintenance of the registry. Those experiencing financial hardships, however, can easily select the free option.
+
+### Does my financial hardship exemption need to be approved?
+No. You will be asked to provide a short description of why you are selecting the free option, but this is for the AEA Registry's internal learning and does not need to be approved.
 
 ### Can I hide information?
 Select fields can be hidden/embargoed until the trial is completed so as to not influence survey respondents while the survey is in the field, or perturb a placebo effect. You can also upload confidential documents, which will never be shared unless you explicitly authorize it.
