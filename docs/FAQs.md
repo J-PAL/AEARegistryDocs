@@ -18,6 +18,9 @@ As of November 1, 2026, registration requires a $50 fee. In 2025, the AEA execut
 #### Does my financial hardship exemption need to be approved?
 No. You will be asked to provide a short description of why you are selecting the free option, but this is for the AEA Registry's internal learning and does not need to be approved.
 
+#### If I registered my trial before the payment went into effect, will I need to pay to update it?
+No. Only trials registered on or after November 1, 2026 will be subject to the registration fee, and updating any registration is free.
+
 ### Can I hide information?
 Select fields can be hidden/embargoed until the trial is completed so as to not influence survey respondents while the survey is in the field, or perturb a placebo effect. You can also upload confidential documents, which will never be shared unless you explicitly authorize it.
 
