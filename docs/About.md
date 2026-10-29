@@ -11,7 +11,7 @@ complete, or withdrawn becomes important for various reasons, including, but not
 
 Because existing registries were not well suited to the need for social sciences, in April 2012, the AEA executive committee decided to establish such a registry for economics and other social sciences.
 
-**If you are running or have run a trial:** You do not need to be a member of the AEA to register. As of November 1, 2026, Registration requires a fee of $50; however, if you have a financial hardships you can choose a free option. We encourage you to register any new study at its outset. However, given the backlog of existing trials, we invite you to also register past studies. If your trial is registered before the start of its intervention, we also encourage you to consider preparing a submission for [pre-results review](http://jde-preresultsreview.org/){:target="_blank"} at the Journal of Development Economics before beginning data collection.
+**If you are running or have run a trial:** You do not need to be a member of the AEA to register. As of November 1, 2026, registration requires a fee of $50; however, if you have a financial hardships you can choose a free option. We encourage you to register any new study at its outset. However, given the backlog of existing trials, we invite you to also register past studies. If your trial is registered before the start of its intervention, we also encourage you to consider preparing a submission for [pre-results review](http://jde-preresultsreview.org/){:target="_blank"} at the Journal of Development Economics before beginning data collection.
 
 **If you are searching for results:** Please browse the database. More results are always forthcoming!
 
