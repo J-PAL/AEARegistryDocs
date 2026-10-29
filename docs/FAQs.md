@@ -15,7 +15,7 @@ To register a trial, you must first have a user account. See [How to Register a 
 ### Is there a fee to register?
 As of November 1, 2026, registration requires a $50 fee. In 2025, the AEA executive committee voted to introduce a $50 registration fee to help support the continued operation and maintenance of the registry. Those experiencing financial hardships, however, can easily select the free option.
 
-## Does my financial hardship exemption need to be approved?
+#### Does my financial hardship exemption need to be approved?
 No. You will be asked to provide a short description of why you are selecting the free option, but this is for the AEA Registry's internal learning and does not need to be approved.
 
 ### Can I hide information?
